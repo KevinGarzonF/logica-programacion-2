@@ -1,4 +1,4 @@
-// Referencias al DOM
+
 const inputCelsius = document.getElementById("celsius")
 const btnConvertir = document.getElementById("convertir")
 
